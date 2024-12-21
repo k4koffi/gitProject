@@ -1,0 +1,9 @@
+/text-1.txt
+/text-2.txt
+# Auto generated files 
+auto-gen-files/newfile.txt
+auto-gen-files/newfile1.txt
+auto-gen-files/newfile2.txt
+
+# Use * to track all files
+# Use *.txt to track only .txt files 
